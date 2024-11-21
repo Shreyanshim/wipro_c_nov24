@@ -1,0 +1,18 @@
+Assignment 1:-
+
+1] Add the prototypes of the functions of getc() putc() gets() puts() printf() scanf() sprintf() sscanf() fprintf() fscanf()
+
+Answer:- 
+1] getc: int getc(FILE *stream);
+2] putc: int putc(int character, FILE *stream);
+3] gets: char *gets(char *str);
+4] puts: int puts(const char *str);
+5] printf: int printf(const char *format,...);
+6] scanf: int scanf(const char *format,...);
+7] sprint: int sprint(char *str, const char *format,...);
+8] sscanf: int sscanf(const char *str,const char *format,...);
+9] fprintf: int fprintf(FILE *stream,const char *format,...);
+10] fscanf: int fscanf(FILE *stream,const char *format,...);
+
+
+
