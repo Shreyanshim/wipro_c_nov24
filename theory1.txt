@@ -1,0 +1,6 @@
+
+Why an uninitialized pointer is called as wild pointer ?
+---------------------------------------------------------
+
+An uninitialized pointer is called a wild pointer because 
+it points to an arbitrary memory location and can cause a program to crash or behave unexpectedly. 
